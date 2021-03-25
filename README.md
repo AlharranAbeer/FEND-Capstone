@@ -1,10 +1,16 @@
-# Weather-Journal App Project
+# Travel App
 
 ## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+This project aims to build your own custom travel app. Using Html, CSS and JavaScript to create the app. in addition to targeting the DOM, working with objects, and retrieving data from 3 APIs in which one of those is reliant on another to work. the project is going to be done in a Webpack environment, using an express server, and wrapped up with service workers.
 
-## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
-
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+## Tools and Languages Used
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- Webpack
+- GeoNames API
+- Weatherbit API
+- Pixabay API
+- Jest
